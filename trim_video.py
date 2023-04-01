@@ -41,7 +41,7 @@ def format_time():
         # print(f"{num_good_nums} out of 3 entries are correct.")
 
         if num_good_nums < 3:
-            print("Dont enter an empty number, a letter, or a number higher than 99.")
+            print("Dont enter an empty number, a letter, or a number larger than 99.")
         elif num_good_nums == 3:
             good_nums = True
 
