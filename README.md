@@ -11,3 +11,4 @@
 ## Use
 
 Run this script with Python.
+It only works with mp4 files for now.
